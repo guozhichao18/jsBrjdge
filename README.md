@@ -1,2 +1,2 @@
 # jsBrjdge
-js和原生交互
+js jianhu交互
