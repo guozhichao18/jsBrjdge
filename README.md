@@ -1,2 +1,1 @@
-# jsBrjdge
-js jianhuhahaha
+原生与js交互插件
